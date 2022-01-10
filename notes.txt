@@ -1,0 +1,20 @@
+checkout - used to switch between version , branches , tags
+
+undo - 
+2 types of changes
+---------------------------
+unstaged or uncommited change
+commited change
+
+
+To undo uncommited change ==> checkout/restore
+{can work with commit level as well as file level....public or private branch}
+
+--
+
+undo commited change ==> revert/reset
+
+
+
+REVERT ==>safe, commit level,recommended fr public as well as private
+RESET  ==>unsafe,both commit and file level , recommended for private branch
